@@ -1,4 +1,4 @@
-## Welcome everybody! ☕️
+# Welcome everybody! ☕️
 Feel free to take a seat, you're most welcome here! And, uh, sorry about the coffee... it's gone!
 Here, you can follow along on my coding journey, from the very first steps to the latest adventures.
 
