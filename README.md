@@ -13,7 +13,7 @@ I got started thanks to an incredibly stimulating course at Epicode, hosted by I
 <div style="display: flex; justify-content: space-between;">
 
   <div>
-    <h4>Front-end:</h4>
+    <h5>Front-end:</h5>
     <div>
       <img src="https://img.shields.io/badge/html-239120?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" title="HTML">
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" title="CSS">
@@ -25,7 +25,7 @@ I got started thanks to an incredibly stimulating course at Epicode, hosted by I
     </div>
   </div>
   <div>
-    <h4>Back-end:</h4>
+    <h5>Back-end:</h5>
     <div>
       <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" title="PHP">
       <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" title="Laravel">
@@ -34,7 +34,7 @@ I got started thanks to an incredibly stimulating course at Epicode, hosted by I
   </div>
 </div>
 
- ### Goals for the Future 🔭
+ #### Goals for the Future 🔭
 
 Here are a few languages I'm currently exploring:
 <div>
