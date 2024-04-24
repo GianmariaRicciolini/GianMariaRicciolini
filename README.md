@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianMariaRicciolini&show_icons=true&hide=contribs,prs&cache_seconds=86400&title_color=9B5A48&text_color=10171F&icon_color=9B5A48&bg_color=899076&line_height=30&color=334A23)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=GianMariaRicciolini&amp;show_icons=true&amp;theme=solarized-light)
