@@ -39,6 +39,7 @@ Here are a few languages I'm currently exploring:
 <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#" title="C#">
 <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Native" title="React Native">
 </div>
+
 ---
 
 
