@@ -9,7 +9,7 @@ Here, you can follow along on my coding journey, from the very first steps to th
 
   <div>
     <h4>Front-end:</h4>
-    <div>
+    <div style="display: flex; flex-wrap">
 <img src="https://img.shields.io/badge/html-239120?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" title="HTML">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" title="CSS">
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SCSS" title="SCSS">
@@ -20,7 +20,7 @@ Here, you can follow along on my coding journey, from the very first steps to th
   </div>
   <div>
     <h4>Back-end:</h4>
-    <div>
+    <div style="display: flex; flex-wrap">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" title="PHP">
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" title="Laravel">
 <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" title="WordPress">
