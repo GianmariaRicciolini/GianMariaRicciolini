@@ -32,10 +32,11 @@ Here, you can follow along on my coding journey, from the very first steps to th
  ### Goals for the Future 🔭
 
 Here are a few languages I'm currently exploring:
-
+<div>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" title="C++">
 <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#" title="C#">
 <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Native" title="React Native">
+</div>
 ---
 
 
