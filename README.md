@@ -3,9 +3,12 @@ Feel free to take a seat, you're most welcome here! And, uh, sorry about the cof
 Here, you can follow along on my coding journey, from the very first steps to the latest adventures.
 
 ---
+
+### What I've Learned 📚
+
 I got started thanks to an incredibly stimulating course at Epicode, hosted by Ifoa. It's been quite a ride, and I've picked up a bunch of cool stuff along the way.
 
-#### Languages & Tools I've Learned 🛠️
+#### Languages & Tools 🛠️
 
 <div style="display: flex; justify-content: space-between;">
 
