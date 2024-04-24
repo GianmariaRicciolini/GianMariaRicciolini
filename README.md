@@ -6,6 +6,7 @@ Here, you can follow along on my coding journey, from the very first steps to th
 #### Languages & Tools I've Learned:
 
 <div style="display: flex; justify-content: space-between;">
+
   <div>
     <h4>Front-end:</h4>
     <div>
