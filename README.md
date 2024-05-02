@@ -46,7 +46,8 @@ Here are a few languages I'm currently exploring:
 ---
 
 🏙️ Currently, I'm based in La Spezia, but I can easily move to Milan or another city.
-You can find me here [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/240px-Linkedin.svg.png)](https://www.linkedin.com/in/giovannimariaricciolini)
+
+You can find me here [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/20px-Linkedin.svg.png)](https://www.linkedin.com/in/giovannimariaricciolini)
 
 ---
 
