@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" width="20"> Welcome everybody!  ☕️
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" width="30"> Welcome everybody!  ☕️
 Feel free to take a seat, you're most welcome here! And, uh, sorry about the coffee... it's gone!
 Here, you can follow along on my coding journey, from the very first steps to the latest adventures.
 
