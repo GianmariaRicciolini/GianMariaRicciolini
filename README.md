@@ -45,7 +45,10 @@ Here are a few languages I'm currently exploring:
 
 ---
 
+🏙️ Currently, I'm based in La Spezia, but I can easily move to Milan or another city.
+You can find me here [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/240px-Linkedin.svg.png)](https://www.linkedin.com/in/giovannimariaricciolini)
 
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=GianMariaRicciolini&show_icons=true&theme=solarized-light&bg_color=F0E6D1)
 ![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=GianMariaRicciolini&layout=compact&theme=solarized-light&bg_color=F0E6D1&langs_count=8)
