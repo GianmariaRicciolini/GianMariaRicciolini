@@ -45,11 +45,11 @@ Here are a few languages I'm currently exploring:
 
 ---
 
-### where I am 🏙️
+### Where I am 🏙️
 
 Currently, I'm based in La Spezia, but I can easily move to Milan or another city.
 
-### where you can find me 🤝
+### Where you can find me 🤝
 
 <a href="https://www.linkedin.com/in/giovannimariaricciolini"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width:100%;"></a>
 
