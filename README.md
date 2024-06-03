@@ -59,6 +59,7 @@ Currently, I'm based in La Spezia, but I can easily move to Milan or another cit
 
 ---
 
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/?username=GianMariaRicciolini&show_icons=true&theme=solarized-light&bg_color=F0E6D1" alt="Anurag's GitHub stats" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianMariaRicciolini&layout=compact&theme=solarized-light&bg_color=F0E6D1&langs_count=8" alt="Linguaggi più usati" style="height: 200px;">
