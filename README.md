@@ -23,14 +23,14 @@ I got started thanks to an incredibly stimulating course at Epicode, hosted by I
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" title="JavaScript">
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" title="TypeScript">
       <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" title="React">
-      <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
+           <img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux">
     </div>
   </div>
   <div>
     <h5>Back-end:</h5>
     <div>
       <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" title="PHP">
-      <img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux">
+       <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
       <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" title="Laravel">
       <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" title="WordPress">
     </div>
