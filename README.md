@@ -41,8 +41,8 @@ I got started thanks to an incredibly stimulating course at Epicode, hosted by I
 
 Here are a few languages I'm currently exploring:
 <div>
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" title="C++">
-<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#" title="C#">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js">
+<img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular">
 <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Native" title="React Native">
 </div>
 
