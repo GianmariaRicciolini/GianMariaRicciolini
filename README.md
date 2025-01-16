@@ -50,7 +50,7 @@ Here are a few languages I'm currently exploring:
 
 ### Where I am 🏙️
 
-Currently, I'm based in La Spezia, but I can easily move to Milan or another city.
+I'm based in Milan.
 
 ### Where you can find me 🤝
 
